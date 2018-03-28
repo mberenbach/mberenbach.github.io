@@ -2,7 +2,7 @@
 * Within major versions, services are backwards compatible
 * Backwards compatibility -> client does not need to change
 * Only two good ways to implement 99% of typical web services now
-  * Clusters for containers (Kubernetes/Docker) with [12-factor](https://12factor.net/) patterns
+  * Clusters for containers (Kubernetes/Docker) with [12-factor](https://12factor.net/) patterns. Ideally, following these patterns can make most of the operational aspects 'invisible' to developer.
   * Function-as-a-Service (Lambda, Azure)
 
 # Languages and productivity
