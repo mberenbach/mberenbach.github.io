@@ -11,10 +11,10 @@
 * REPL can be helpful
 * At small scale, you won't notice a difference between say Javascript and Typescript. But large scale, you'll wish you had made the right choice to begin with.
 * Best current languages<sup>1</sup> by purpose
-  * Devices and/or Services: Kotlin or C#
+  * Client Devices and/or Services: Kotlin or C#
   * Web Clients and/or Services: Typescript
   * Close to metal: C++ or Rust
   * High concurrency network services: Elixir (not personally tested)
-* Most interesting newish general purpose language: Crystal (too early to tell)
+* For the future, I think Crystal and PyPy are interesting projects. Especially Crystal, as it has some sophisticated systems-level programming constructs you can 'drop' into when necessary, but for the most part are high level. In terms of performance may be close enough to C++/Rust for most services.
 
 <sup>1</sup>Yes, this is somewhat a jumble of language plus platform.
