@@ -33,7 +33,16 @@ Here are a list of things which, from current research, don't seem to matter muc
 3. Going to absolute failure
 4. Doing more than 1-3 sets per exercise, or doing any exercise more than 2-3 times a week.
 
-# Little add-ons and hacks
+## Nutrition
+
+For very detailed information, please see the resources at the end.
+
+### Food quality
+
+1. '''Avoid''' foods that you are allergic to, cause inflammation, or generally make you feel sick. For me (and many people) this may include things like grains, lentils, nuts, dairy.
+2. '''Eat''' foods that are natural and fit your macronutrient profile.
+
+# Tiny hacks
 ## Long fast
 
 Once in awhile we've overindugled, and feel - to use a technical term - "blah". On these occasions, doing a long fast (24-36 hours) can 
