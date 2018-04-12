@@ -19,17 +19,13 @@ The plan has two major components:
 1. Progressive resistence training
 2. Nutrition
 
-Progressive resistance training is by far the most effective, time efficient way to increase overall strength and mass. It also 
-provides an indirect aerobic and cardiovascular effect. On the other hand, other forms of exercise (running, sports, etc) are less
-effective to varying degrees for this purpose. This is not to say that if you have a favorite physical activity that you shouldn't do it,
-but to be clear: it is not a substitute for progressive resistance training.
+Progressive resistance training is by far the most effective, time efficient way to increase overall strength and mass. It also provides an indirect aerobic and cardiovascular effect. On the other hand, other forms of exercise (running, sports, etc) are less effective to varying degrees for this purpose. This is not to say that if you have a favorite physical activity that you shouldn't do it, but to be clear: it is not a substitute for progressive resistance training.
 
-As far as nutrition, there is a lot of junk science out there. I have fallen prey to it over the years. Like with resistance training,
-there is a lot of minuteae where you can easily lose the forest for the trees. We focus only on the basics.
+As far as nutrition, there is a lot of junk science out there. I have fallen prey to it over the years. Like with resistance training, there is a lot of minuteae where you can easily lose the forest for the trees. We focus only on the basics.
 
 ## Progressive resistence training
 
-Ok, so practically speaking how do we accomplish increasing our lean mass
+Practically speaking how do we accomplish increasing our lean mass? The mo
 
 Here are a list of things which, from current research, don't seem to matter much or at all:
 1. Length of rest periods between sets
