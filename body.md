@@ -6,7 +6,7 @@ Overall goals:
 1. Maximize lean body mass (muscle) and overall health
 2. Minimize fat (within reason) and markers of disease 
 
-Believe it or not, the same activities which lead to #1 and #2 also contribute positiviely to mental markers of health (memory, mood) and longevity.
+Shooting for these goals will give you the best possible chances of staying mobile + healthy as long as possible. They also contribute positively to mental markers of health such as memory and mood.
 
 To accomplish this, the plan itself must be practical and something you can follow over a lifetime! So the plan is:
 1. Simple to implement
@@ -25,7 +25,7 @@ As far as nutrition, there is a lot of junk science out there. I have fallen pre
 
 ## Progressive resistence training
 
-Practically speaking how do we accomplish increasing our lean mass? The mo
+Practically speaking how do we accomplish increasing our lean mass?
 
 Here are a list of things which, from current research, don't seem to matter much or at all:
 1. Length of rest periods between sets
@@ -52,14 +52,13 @@ having 1-2 scoops of protein powder is probably fine, but not necessary.
 
 ## Walking
 
-If you're doing the training program, technically you don't need to do this, but I strongly encourage walking as much as you can. Not jogging, 
-not running, just plain walking. It has some nice small health benefits, but again it's not a replacement for the training or nutrition program.
+I strongly encourage moving around casually as much as you can. Not jogging, not running, just plain walking. It is not a replacement for resistance training, but it should feel pleasant, meditative, improve mood, and help recovery from more serious exercise.
+
+In practice, park farther away from the storefront, take the stairs rather than the elevator, taking a walking 1:1 meeting rather than sitting in a conference room, etc.
 
 ## Movement and flow
 
-As we get older, there is a tendency to feel a bit less limber. A dynamic movement of some type - could be tai chi, pilates, just doing random
-bodyweight moves is not a bad idea to keep the blood flowing and loosen up a bit. Of course - not to sound like a broken record again - it does
-not replace the progressive resistance program.
+As we get older, there is a tendency to feel a bit less limber. A dynamic movement of some type - could be tai chi, pilates, just doing random bodyweight moves is not a bad idea to keep the blood flowing and loosen up a bit. Of course - not to sound like a broken record again - it does not replace the progressive resistance program.
 
 # The ultimate, super brief cliff notes:
 
@@ -71,21 +70,16 @@ not replace the progressive resistance program.
 5. Overhead Press
 6. Chin-ups
 
-All performed two times a week on different days (A/B, for example A on Monday and B on Thursday)
+This hits all major muscle groups in the body. Do this twice a week on different days to start (A/B, for example A on Monday and B on Thursday), and do 3 sets of each exercise to start.
 
-Beginner (or abbreviated)
-Day A and B: Perform 1x8-10 of each exercise, increase weight when 10 reps are achieved two workouts in a row.
+Optional (if you feel like it, these are not strictly required):
+* Face pulls - especially great if you have shoulder problems
+* Ab work - planks, hanging knee raises, cable crunches, etc
+* Calves - standing calf raise of some kind
+* Arms - bicep curls, tricep presses
 
-Advanced (or more time to spare)
-Day A - Perform 3x3-5 each exercise, increase weight once 3x5 is achieved on two consecutive weeks.
-Day B - Perform 2x6-8 each exercise, increase weight once 2x8 is achieved on two consecutive weeks.
 
 # FAQ
-
-Q: Where is the ab work, calf work, or bicep work?
-A: You don't need it (really). All of these bodyparts will get a lot of indirect work on the compound movements, and genetics will play a 
-bigger role in how well these muscles will develop. However, if you really want to focus here, hanging leg raises, standing calf raises, and 
-barbell curls are the most effective exercises for these bodyparts.
 
 Q: Do I really need .8g / lb LBM protein?
 A: No, but I wouldn't go below .6g / lb LBM. Trying to do this program on too little protein is asking for bad recovery and spinning
@@ -100,12 +94,6 @@ Q: I can lift X lbs in the squat. Is that good?
 A: How much you can lift is influenced by a lot of factors - your body build type, muscle insertions, age, training history, etc. So as such,
 there is only one important comparison, which is with yourself. As long as you're striving to increase or maintain to your best ability,
 the absolute number is not relevant at all.
-
-Q: Wh
-
-
-
-
 
 Abbreviations: 
 - BW: bodyweight
